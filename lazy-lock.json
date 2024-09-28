@@ -1,0 +1,9 @@
+{
+  "lazy.nvim": { "branch": "main", "commit": "460e1cd8f24e364d54543a4b0e83f6f4ec1f65fb" },
+  "moonfly": { "branch": "master", "commit": "e06add9696c8e70fa91cc59883459505b6aab49d" },
+  "nvim-dap": { "branch": "master", "commit": "90616ae6ae40053103dc66872886fc26b94c70c8" },
+  "nvim-tree.lua": { "branch": "master", "commit": "e7cdecc6363acef8232f2f099fe21096ffdc071f" },
+  "nvim-web-devicons": { "branch": "master", "commit": "26220156aafb198b2de6a4cf80c1b120a3768da0" },
+  "rustaceanvim": { "branch": "master", "commit": "ebbd10006d2deeb71c46d58c4c69aa3d5c088310" },
+  "tree-sitter": { "branch": "master", "commit": "f027762845fa35ff27fe0487c86537a74a480a0c" }
+}
