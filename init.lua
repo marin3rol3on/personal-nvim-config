@@ -9,4 +9,8 @@ vim.opt.termguicolors = true
 require("core.options")
 require("config.lazy")
 
+require'lspconfig'.rust_analyzer.setup{}
+
+
+
 vim.cmd [[colorscheme moonfly]]
