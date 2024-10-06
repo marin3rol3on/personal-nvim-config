@@ -1,10 +1,9 @@
 {
-  "lazy.nvim": { "branch": "main", "commit": "460e1cd8f24e364d54543a4b0e83f6f4ec1f65fb" },
+  "lazy.nvim": { "branch": "main", "commit": "1159bdccd8910a0fd0914b24d6c3d186689023d9" },
   "moonfly": { "branch": "master", "commit": "7de26ecf5216fffd974ce8f3e4793b8bb1c70ad0" },
   "nvim-dap": { "branch": "master", "commit": "7ff6936010b7222fea2caea0f67ed77f1b7c60dd" },
-  "nvim-lspconfig": { "branch": "master", "commit": "aa615f62300465eef5115e0b7dfcf6dedc274f5d" },
+  "nvim-lspconfig": { "branch": "master", "commit": "16666f1bc40f69ce05eb1883fd8c0d076284d8a5" },
   "nvim-tree.lua": { "branch": "master", "commit": "4a9e82d10a3715d0c3845e1d2f66ddfb8b711253" },
-  "nvim-web-devicons": { "branch": "master", "commit": "6b53401918a9033a41159d012160c5fb5eb249ae" },
-  "rustaceanvim": { "branch": "master", "commit": "29f42cc149f915d771c550b6dfe7c788d856cf04" },
-  "tree-sitter": { "branch": "master", "commit": "da61d31a3d51f38a78a739392aabf79e7b2f523f" }
+  "nvim-web-devicons": { "branch": "master", "commit": "56f17def81478e406e3a8ec4aa727558e79786f3" },
+  "tree-sitter": { "branch": "master", "commit": "7821feb7e7d55a76b7ffeeb6b0bfb7b8f499ce94" }
 }
