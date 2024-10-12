@@ -2,18 +2,19 @@ local opt = vim.opt
 
 --Configure the clipboard
 
-vim.g.clipboard = {
-  name = 'OSC 52',
-  copy = {
-    ['+'] = require('vim.ui.clipboard.osc52').copy('+'),
-    ['*'] = require('vim.ui.clipboard.osc52').copy('*'),
-  },
-  paste = {
-    ['+'] = require('vim.ui.clipboard.osc52').paste('+'),
-    ['*'] = require('vim.ui.clipboard.osc52').paste('*'),
-  },
-}
+--vim.g.clipboard = {
+--  name = 'OSC 52',
+--  copy = {
+--    ['+'] = require('vim.ui.clipboard.osc52').copy('+'),
+--    ['*'] = require('vim.ui.clipboard.osc52').copy('*'),
+--  },
+--  paste = {
+--    ['+'] = require('vim.ui.clipboard.osc52').paste('+'),
+--    ['*'] = require('vim.ui.clipboard.osc52').paste('*'),
+--  },
+--}
 
+opt.clipboard:append("unnamedplus")
 opt.number = true
 opt.syntax = "ON"
 
